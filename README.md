@@ -1,5 +1,6 @@
 # openHPI-QML-course
-Study Notebooks for [openHPI: Quantum Machine Learning (with IBM Quantum) Course](link to the course)
+
+Study Notebooks for [openHPI: Quantum Machine Learning (with IBM Quantum) Course](https://open.hpi.de/courses/qc-machineLearning2023/)
 
 ## Course Contents
 
@@ -13,13 +14,14 @@ In this course, you will:
 ## Table of Contents
 
 Week 1:
+
 - [Support Vector Machines](https://github.com/Mostafa-Atallah2020/openHPI-QML-course/blob/main/Week%201/Support%20Vector%20Machines.ipynb)
 - [Quantum SVM](https://github.com/Mostafa-Atallah2020/openHPI-QML-course/blob/main/Week%201/Quantum%20SVM.ipynb)
 - [Variational Quantum Classifier](https://github.com/Mostafa-Atallah2020/openHPI-QML-course/blob/main/Week%201/Variational%20Quantum%20Classifier.ipynb)
 
 Week 2:
-- [Machine Learning with Qiskit](https://github.com/Mostafa-Atallah2020/openHPI-QML-course/blob/main/Week%202/Machine%20Learning%20with%20Qiskit.ipynb)
 
+- [Machine Learning with Qiskit](https://github.com/Mostafa-Atallah2020/openHPI-QML-course/blob/main/Week%202/Machine%20Learning%20with%20Qiskit.ipynb)
 
 ## Course Instructors
 
@@ -30,4 +32,3 @@ Week 2:
 ## Contact
 
 If you have any questions or need more information, you can reach me on [LinkedIn](https://www.linkedin.com/in/mostafa-atallah-540334120/) or on [Twitter](https://twitter.com/M_Ataallah)
-
